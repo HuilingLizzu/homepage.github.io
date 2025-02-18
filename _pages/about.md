@@ -17,42 +17,31 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a first year PhD student in Computer Science at Hong Kong Baptist University where I am supervised by Prof. <a href="https://www.comp.hkbu.edu.hk/~xujl/" target="_blank">Jianliang XU</a>. I enared both my master's and bachelor's degree from Zhengzhou University.
+I am currently a first year PhD student in Computer Science at Hong Kong Baptist University where I am supervised by Prof. <a href="https://www.comp.hkbu.edu.hk/~xujl/" target="_blank">Jianliang XU</a>. I enared both my master's (under the supervision of Prof. <a href="https://zzudb.github.io/" target="_blank">Yafei LI</a>) and bachelor's degree from Zhengzhou University.
 
 My research interest includes Multi-Agent Computing, Spatiotemporal Data Processing, Deep Reinforcement Learning and High-Dimensional Data Management.
 
-
-
 # 📝 Publications 
 
-## Publications
-
 ### Utility-Aware Dynamic Ridesharing in Spatial Crowdsourcing
-**Yafei Li**, **Huiling Li**, Xin Huang, Jianliang Xu, Yu Han, Mingliang Xu  
-*IEEE Transactions on Mobile Computing (TMC)*  
-2022  
+Yafei Li, **Huiling Li**, Xin Huang, Jianliang Xu, Yu Han, Mingliang Xu  
+*IEEE Transactions on Mobile Computing (TMC)* 2022  
 
 ### Fairness-Guaranteed Task Assignment for Crowdsourced Mobility Services
-**Yafei Li**, **Huiling Li**, Baolong Mei, Xin Huang, Jianliang Xu, Mingliang Xu  
-*IEEE Transactions on Mobile Computing (TMC)*  
-2023  
+Yafei Li, **Huiling Li**, Baolong Mei, Xin Huang, Jianliang Xu, Mingliang Xu  
+*IEEE Transactions on Mobile Computing (TMC)* 2023  
 
 ### AMRAS: A Visual Analysis System for Spatial Crowdsourcing
-**Qingshun Wu**, **Yafei Li**, **Huiling Li**, Di Zhang, Guanglei Zhu  
-*Proceedings of the VLDB Endowment (PVLDB), Demo Track*  
-2022  
-15(12): 3690-3693  
+Qingshun Wu, Yafei Li, **Huiling Li**, Di Zhang, Guanglei Zhu  
+*Proceedings of the VLDB Endowment (PVLDB), Demo Track* 2022 
 
 ### PRID: An Efficient Pub/Sub Ride Hitching System
-**Yafei Li**, Lei Gao, Haobo Sun, **Huiling Li**, Qingshun Wu  
-*Proceedings of the ACM Conference on Information and Knowledge Management (CIKM), Demo Track*  
-2022  
-4921-4925  
+Yafei Li, Lei Gao, Haobo Sun, **Huiling Li**, Qingshun Wu  
+*Proceedings of the ACM Conference on Information and Knowledge Management (CIKM), Demo Track* 2022 
 
 ### Effective Task Assignment in Mobility Prediction-Aware Spatial Crowdsourcing
 **Huiling Li**, Yafei Li, Wei Chen, Shuo He, Mingliang Xu, Jianliang Xu  
-*Proceedings of the IEEE International Conference on Data Engineering (ICDE)*  
-2025
+*Proceedings of the IEEE International Conference on Data Engineering (ICDE)* 2025
 
 <!--  
 # 📖 Educations
