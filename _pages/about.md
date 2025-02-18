@@ -23,13 +23,17 @@ My research interest includes Multi-Agent Computing, Spatiotemporal Data Process
 
 # 📝 Publications 
 
-### Utility-Aware Dynamic Ridesharing in Spatial Crowdsourcing
-Yafei Li, **Huiling Li**, Xin Huang, Jianliang Xu, Yu Han, Mingliang Xu  
-*IEEE Transactions on Mobile Computing (TMC)* 2022  
+### Effective Task Assignment in Mobility Prediction-Aware Spatial Crowdsourcing
+**Huiling Li**, Yafei Li, Wei Chen, Shuo He, Mingliang Xu, Jianliang Xu  
+*Proceedings of the IEEE International Conference on Data Engineering (ICDE)* 2025
 
 ### Fairness-Guaranteed Task Assignment for Crowdsourced Mobility Services
 Yafei Li, **Huiling Li**, Baolong Mei, Xin Huang, Jianliang Xu, Mingliang Xu  
 *IEEE Transactions on Mobile Computing (TMC)* 2023  
+
+### Utility-Aware Dynamic Ridesharing in Spatial Crowdsourcing
+Yafei Li, **Huiling Li**, Xin Huang, Jianliang Xu, Yu Han, Mingliang Xu  
+*IEEE Transactions on Mobile Computing (TMC)* 2022  
 
 ### AMRAS: A Visual Analysis System for Spatial Crowdsourcing
 Qingshun Wu, Yafei Li, **Huiling Li**, Di Zhang, Guanglei Zhu  
@@ -38,10 +42,6 @@ Qingshun Wu, Yafei Li, **Huiling Li**, Di Zhang, Guanglei Zhu
 ### PRID: An Efficient Pub/Sub Ride Hitching System
 Yafei Li, Lei Gao, Haobo Sun, **Huiling Li**, Qingshun Wu  
 *Proceedings of the ACM Conference on Information and Knowledge Management (CIKM), Demo Track* 2022 
-
-### Effective Task Assignment in Mobility Prediction-Aware Spatial Crowdsourcing
-**Huiling Li**, Yafei Li, Wei Chen, Shuo He, Mingliang Xu, Jianliang Xu  
-*Proceedings of the IEEE International Conference on Data Engineering (ICDE)* 2025
 
 <!--  
 # 📖 Educations
